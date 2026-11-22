@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Calculadora de Matrices",
+      "request": "launch",
+      "mainClass": "TF_Grupo06",
+      "projectName": "TF_Grupo06",
+      "console": "integratedTerminal",
+      "vmArgs": "-Dstdout.encoding=UTF-8 -Dfile.encoding=UTF-8"
+    }
+  ]
+}

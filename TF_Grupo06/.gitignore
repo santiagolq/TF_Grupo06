@@ -1,0 +1,15 @@
+# Compilados
+bin/
+out/
+*.class
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
